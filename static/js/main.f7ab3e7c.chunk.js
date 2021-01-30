@@ -1,0 +1,2 @@
+(this.webpackJsonplesson4=this.webpackJsonplesson4||[]).push([[0],{3:function(e,t,n){"use strict";n.r(t);var o=n(0),s=n.n(o),a=n(2),r=n.n(a),c=s.a.createElement("a",{href:"http://www.google.com",target:"_blanck"},"\u0433\u0443\u0433\u043b");r.a.render(c,document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.f7ab3e7c.chunk.js.map
